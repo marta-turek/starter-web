@@ -1,1 +1,3 @@
 hola.txt
+*.log
+log/
